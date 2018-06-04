@@ -1,0 +1,12 @@
+#Node Depencies
+/node_modules
+
+#Environment Variables
+/env
+
+#OS Specific Files
+.DS_Store
+
+#Editor Files and Folders
+.vscode
+.idea
